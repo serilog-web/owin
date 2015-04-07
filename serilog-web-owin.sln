@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerilogWeb.Owin", "src\SerilogWeb.Owin\SerilogWeb.Owin.csproj", "{FDCEBC10-F403-4DDD-8594-DE6D7DD543AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerilogWeb.Owin.Tests", "test\SerilogWeb.Owin.Tests\SerilogWeb.Owin.Tests.csproj", "{4F81EDAE-2E06-4024-925A-E495C852BDCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDCEBC10-F403-4DDD-8594-DE6D7DD543AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDCEBC10-F403-4DDD-8594-DE6D7DD543AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDCEBC10-F403-4DDD-8594-DE6D7DD543AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDCEBC10-F403-4DDD-8594-DE6D7DD543AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F81EDAE-2E06-4024-925A-E495C852BDCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F81EDAE-2E06-4024-925A-E495C852BDCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F81EDAE-2E06-4024-925A-E495C852BDCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F81EDAE-2E06-4024-925A-E495C852BDCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

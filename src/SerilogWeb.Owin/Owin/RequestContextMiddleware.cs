@@ -1,4 +1,4 @@
-﻿// Copyright 2014 Serilog Contributors
+﻿// Copyright 2015 SerilogWeb, Serilog Contributors
 // 
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -17,7 +17,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using Serilog.Context;
 
-namespace Serilog.Extras.MSOwin
+namespace SerilogWeb.Owin
 {
     /// <summary>
     /// Adds a RequestId property to the logging context during request processing.

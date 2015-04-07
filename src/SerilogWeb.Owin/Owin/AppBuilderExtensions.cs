@@ -14,7 +14,7 @@
 
 using Owin;
 
-namespace Serilog.Extras.MSOwin
+namespace SerilogWeb.Owin
 {
     /// <summary>
     /// Extends <see cref="IAppBuilder"/> with support for installing Serilog middleware.

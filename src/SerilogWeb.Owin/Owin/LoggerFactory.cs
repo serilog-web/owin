@@ -1,4 +1,4 @@
-// Copyright 2014 Serilog Contributors
+// Copyright 2015 SerilogWeb, Serilog Contributors
 // 
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -15,10 +15,12 @@
 using System;
 using System.Diagnostics;
 using Microsoft.Owin.Logging;
+using Serilog;
 using Serilog.Core;
 using Serilog.Events;
+using ILogger = Serilog.ILogger;
 
-namespace Serilog.Extras.MSOwin
+namespace SerilogWeb.Owin
 {
     /// <summary>
     /// Implementation of Microsoft.Owin.Logger.ILoggerFactory.
