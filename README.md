@@ -6,3 +6,6 @@ Serilog web request logging and enrichment for the Owin pipeline.
 
 **Package** - [SerilogWeb.Owin](http://nuget.org/packages/serilogweb.owin) | **Platforms** - .NET 4.5
 
+### Discontinued
+
+This package is being discontinued; please read #1 for details.
