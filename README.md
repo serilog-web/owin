@@ -8,4 +8,4 @@ Serilog web request logging and enrichment for the Owin pipeline.
 
 ### Discontinued
 
-This package is being discontinued; please read #1 for details.
+This package is being discontinued; please read https://github.com/serilog-web/owin/issues/1 for details.
